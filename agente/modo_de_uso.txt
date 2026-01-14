@@ -1,0 +1,4 @@
+python agent_chroma.py --db-path ./tu_base_datos --model all-MiniLM-L6-v2
+
+
+python3 agent_chroma.py --db-path ../prueba_IA/chroma_storage --model all-MiniLM-L6-v2

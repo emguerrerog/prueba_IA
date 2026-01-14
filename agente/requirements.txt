@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers
+openai  # o ollama para local
+langchain
+langchain-community
+langchain-chroma
+langchain-openai
+python-dotenv
+tqdm
+colorama  # para colores en terminal

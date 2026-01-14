@@ -1,0 +1,7 @@
+chromadb
+sentence-transformers
+langchain  # opcional, útil para dividir texto
+pypdf  # para PDFs
+python-docx  # para Word
+beautifulsoup4  # para HTML
+tqdm

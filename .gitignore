@@ -1,0 +1,41 @@
+# Archivos Zone.Identifier (marcadores de seguridad de Windows)
+*.Zone.Identifier
+*:Zone.Identifier
+desktop.ini
+
+# Bases de datos SQLite
+*.db
+*.db3
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sqlite-journal
+*.db-wal
+*.db-shm
+
+# Directorios comunes de bases de datos SQLite
+/database/
+/db/
+
+# Excepciones (si necesitas trackear algún archivo SQLite específico)
+# !important_database.sqlite
+
+# Configuraciones del sistema
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+.env
+.venv
+venv/
+env/
+
+# Logs
+*.log
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
